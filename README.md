@@ -18,7 +18,7 @@
 - 🌱 Full-stack project in progress...  
 
 ## 📫 Contact
-- 📧 Email: andolini.y@gmail.com  
+- 📧 Email: yang.yanqing@tutamail.com
 - 💼 LinkedIn: [Yanqing Yang](https://www.linkedin.com/in/yanqing-yang-berlin)  
 - 💻 GitHub: [Yang-Yanqing](https://github.com/Yang-Yanqing)  
 
