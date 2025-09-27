@@ -1,5 +1,9 @@
 ## Hi there 👋I'm Yanqing Yang 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yang-Yanqing/my-Homepage/master/My-logo.png" alt="Logo" width="150">
+</p>
+
 ## 🚀 About Me
 - 🌍 Currently based in Berlin, Germany  
 - 📚 Web Development Bootcamp student at Ironhack  
