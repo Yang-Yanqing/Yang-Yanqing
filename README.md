@@ -1,7 +1,7 @@
 ## Hi there 👋I'm Yanqing Yang 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yang-Yanqing/my-Homepage/master/My-logo.png" alt="Logo" width="150">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Yang-Yanqing/my-Homepage/master/My-logo.png" alt="Logo" width="180">
 </p>
 
 ## 🚀 About Me
