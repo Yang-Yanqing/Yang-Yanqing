@@ -1,61 +1,111 @@
-## Hi there 👋I'm Yanqing Yang 
+👋 Hi, I'm Yanqing Yang
+Full-Stack Engineer · Backend & Systems Architecture
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Yang-Yanqing/my-Homepage/master/My-logo.png" alt="Logo" width="180">
-</p>
+Node.js · TypeScript · Python · FastAPI · PostgreSQL · Prisma · React · AWS · CI/CD
 
-## 🚀 About Me
-- 🌍 Currently based in Berlin, Germany  
-- 📚 Web Development Bootcamp student at Ironhack  
-- 🎯 Transitioning from international trade & government affairs to full-stack web development  
-- 💡 Passionate about technology, problem-solving, and building user-focused applications  
+<p align="left"> <img src="https://raw.githubusercontent.com/Yang-Yanqing/my-Homepage/master/My-logo.png" alt="Logo" width="180"> </p>
+🚀 About Me
 
-## 🛠 Tech Stack (Learning & Using)
-- **Frontend**: HTML, CSS, JavaScript, React  
-- **Backend**: Node.js, Express  
-- **Database**: MongoDB  
-- **Tools**: Git, GitHub, VS Code
+Full-stack engineer with strong backend architecture experience, specializing in scalable systems, data modeling, and cloud deployment pipelines.
 
-## 🌟 Portfolio Projects (Showcase)
+📍 Based in Berlin, Germany
 
-### 🎮 MyGame  
+🔧 5+ years experience in backend development, distributed systems integration & enterprise data processing
 
-A vertical scrolling shooting game built with **HTML / CSS / JavaScript**.  
+📚 Built enterprise-grade platforms using Node.js, FastAPI, PostgreSQL, Express, Prisma
 
-**Features:**  
-- Innovative **Time Axis & Coordinate System** for smooth gameplay  
-- **Weapon Drop Mechanism**: reward weapons every 50 points  
-- **Robust Game State Reset** for bug-free restarts  
-- Future-ready with **business-oriented thinking** (membership & unlock system)  
+☁️ Strong in AWS (EC2, S3, CloudFront, Nginx, Docker) and GitHub Actions CI/CD
 
-🔗 [Play Online (GitHub Pages)](https://yang-yanqing.github.io/myGame/) | [Source Code](https://github.com/Yang-Yanqing/myGame)
+🗂 Experienced with large-scale historical datasets (2M+ records) and high-reliability systems
 
----
+🎯 Focused on clean architecture, maintainability, and production-ready engineering
 
-### 🏠 MyHomepage  
-A personal homepage project showcasing clean design, responsive layout, and reusable components.  
+🧩 Tech Stack
+Backend & APIs
 
-**Highlights:**  
-- Responsive design for desktop & mobile  
-- Modular CSS structure for maintainability  
-- Clear structure to expand into a portfolio site  
+Node.js · TypeScript · Express · FastAPI · Python
+PostgreSQL · Prisma ORM · MongoDB · Authentication · WebSocket
 
-🔗 [Live Site](https://yang-yanqing.github.io/my-Homepage/) | [Source Code](https://github.com/Yang-Yanqing/my-Homepage)
+Cloud & DevOps
 
----
+AWS EC2 · AWS S3 · CloudFront CDN · Nginx (reverse proxy)
+Docker · GitHub Actions (CI/CD) · Render · Fly.io · Supabase
 
+Frontend
 
-## 📂 Featured Projects
-*(Work in progress — more to come!)*  
-- 🔧 [Lab Projects from Ironhack](https://github.com/Yang-Yanqing?tab=repositories)  
-- 🌱 Full-stack project in progress...  
+React · TypeScript · Vite
 
-## 📫 Contact
-- 📧 Email: yang.yanqing@tutamail.com
-- 💼 LinkedIn: [Yanqing Yang](https://www.linkedin.com/in/yanqing-yang-berlin)  
-- 💻 GitHub: [Yang-Yanqing](https://github.com/Yang-Yanqing)  
+🌟 Selected Projects
+🛒 BuddyCart — E-commerce System
 
----
+React · Node.js · MongoDB · PayPal · Docker · AWS EC2/S3/CloudFront · Nginx · CI/CD
 
-⭐️ *This profile is currently under construction as I continue my journey into web development. Stay tuned for updates!*  
+A production-ready full-stack e-commerce platform with real-time communication and role-based access control.
 
+Independent system design and architecture
+
+JWT authentication, PayPal checkout, WebSocket messaging
+
+CI/CD pipeline using Vitest + GitHub Actions
+
+Backend containerized (Docker) and deployed on AWS EC2 with Nginx
+
+Frontend hosted on AWS S3 + CloudFront (global CDN)
+
+Production-grade environment mirroring enterprise deployments
+
+🔗 Live (CloudFront): https://d34e3l3zzf4dvm.cloudfront.net/
+
+🔗 GitHub: https://github.com/Yang-Yanqing/my-BuddyCart
+
+🧳 HireHub — Applicant Tracking System (ATS)
+
+React · TypeScript · Node.js · Prisma · PostgreSQL · Supabase · Fly.io
+
+A lightweight ATS platform designed for HR teams with multi-role access and workflow automation.
+
+Designed scalable Prisma schema (Jobs, Candidates, Applications, StatusHistory)
+
+Implemented full CRUD API + status transition engine
+
+Frontend deployed on Fly.io
+
+Backend deployed on Render
+
+🔗 Frontend Repo: https://github.com/Yang-Yanqing/myHireHub-frontEnd
+
+🔗 Backend Repo: https://github.com/Yang-Yanqing/myHireHub-backEnd
+
+🗂 Trademark Information Management System
+
+Python · FastAPI · Node.js · PostgreSQL · Alibaba Cloud · Django
+
+Enterprise digitalization project processing 2M+ historical trademark records.
+
+Led backend integration using FastAPI + PostgreSQL
+
+Designed and optimized large-scale data schemas
+
+Built API services, validated data consistency, deployed to Alibaba Cloud
+
+Ensured long-term stability for a national-level organization
+
+🧭 Current Focus
+
+Distributed backend systems & clean architecture
+
+AWS-based scalable deployments
+
+TypeScript/Python hybrid backend engineering
+
+Open-source contributions in Node.js / FastAPI ecosystems
+
+📫 Contact
+
+📧 Email: yang.yanqing@tutamail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/yanqing-yang-berlin
+
+💻 GitHub: https://github.com/Yang-Yanqing
+
+⭐ I design and build scalable systems — with clean code, cloud-ready architecture, and engineering discipline.
