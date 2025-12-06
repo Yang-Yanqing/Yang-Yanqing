@@ -1,111 +1,90 @@
-👋 Hi, I'm Yanqing Yang
-Full-Stack Engineer · Backend & Systems Architecture
+# 👋 Hi, I'm Yanqing Yang  
+### Backend-Focused Full-Stack Engineer | Systems Architecture & Cloud Deployment
 
-Node.js · TypeScript · Python · FastAPI · PostgreSQL · Prisma · React · AWS · CI/CD
+I build scalable backend systems and production-ready cloud infrastructure using **Node.js, FastAPI, PostgreSQL, Prisma, Docker, and AWS**.
 
-<p align="left"> <img src="https://raw.githubusercontent.com/Yang-Yanqing/my-Homepage/master/My-logo.png" alt="Logo" width="180"> </p>
-🚀 About Me
+📍 Berlin, Germany  
+💼 5+ years in backend engineering, distributed systems integration & large-scale data processing  
 
-Full-stack engineer with strong backend architecture experience, specializing in scalable systems, data modeling, and cloud deployment pipelines.
 
-📍 Based in Berlin, Germany
+---
 
-🔧 5+ years experience in backend development, distributed systems integration & enterprise data processing
+## 🧩 Tech Stack
 
-📚 Built enterprise-grade platforms using Node.js, FastAPI, PostgreSQL, Express, Prisma
+### 🔧 Backend & APIs  
+Node.js · TypeScript · Express · FastAPI · Python  
+PostgreSQL · Prisma ORM · MongoDB  
+Authentication · WebSocket · Clean Architecture
 
-☁️ Strong in AWS (EC2, S3, CloudFront, Nginx, Docker) and GitHub Actions CI/CD
+### ☁️ Cloud & DevOps  
+AWS (EC2 / S3 / CloudFront) · Docker · Nginx  
+GitHub Actions (CI/CD) · Render · Fly.io · Supabase
 
-🗂 Experienced with large-scale historical datasets (2M+ records) and high-reliability systems
+### 🎨 Frontend  
+React · TypeScript · Vite  
 
-🎯 Focused on clean architecture, maintainability, and production-ready engineering
+---
 
-🧩 Tech Stack
-Backend & APIs
+# 🌟 Selected Projects
 
-Node.js · TypeScript · Express · FastAPI · Python
-PostgreSQL · Prisma ORM · MongoDB · Authentication · WebSocket
+## 🛒 **BuddyCart — E-commerce System**  
+**React · Node.js · MongoDB · PayPal · Docker · AWS EC2/S3/CloudFront · Nginx · CI/CD**
 
-Cloud & DevOps
+A production-ready full-stack e-commerce platform featuring role-based access, real-time messaging, and online payments.
 
-AWS EC2 · AWS S3 · CloudFront CDN · Nginx (reverse proxy)
-Docker · GitHub Actions (CI/CD) · Render · Fly.io · Supabase
+- Independent architecture & system design  
+- JWT auth, PayPal checkout, WebSocket chat  
+- CI/CD (Vitest + GitHub Actions)  
+- Backend dockerized & deployed on AWS EC2 (Nginx reverse proxy)  
+- Frontend hosted on S3 + CloudFront (global CDN)
 
-Frontend
+🔗 **Live:** https://d34e3l3zzf4dvm.cloudfront.net/  
+🔗 **GitHub:** https://github.com/Yang-Yanqing/my-BuddyCart  
 
-React · TypeScript · Vite
 
-🌟 Selected Projects
-🛒 BuddyCart — E-commerce System
+---
 
-React · Node.js · MongoDB · PayPal · Docker · AWS EC2/S3/CloudFront · Nginx · CI/CD
+## 🧳 **HireHub — Applicant Tracking System (ATS)**  
+**React · TypeScript · Node.js · Prisma · PostgreSQL · Supabase · Fly.io**
 
-A production-ready full-stack e-commerce platform with real-time communication and role-based access control.
+A lightweight ATS with multi-role access (Lead / HR / Candidate) and workflow automation.
 
-Independent system design and architecture
+- Designed scalable Prisma schema (Jobs, Candidates, Applications, StatusHistory)  
+- Full CRUD API + status transition engine  
+- Frontend deployed to Fly.io  
+- Backend deployed to Render  
 
-JWT authentication, PayPal checkout, WebSocket messaging
+🔗 **Frontend Repo:** https://github.com/Yang-Yanqing/myHireHub-frontEnd  
+🔗 **Backend Repo:** https://github.com/Yang-Yanqing/myHireHub-backEnd  
 
-CI/CD pipeline using Vitest + GitHub Actions
 
-Backend containerized (Docker) and deployed on AWS EC2 with Nginx
+---
 
-Frontend hosted on AWS S3 + CloudFront (global CDN)
+## 🗂 **Trademark Information Management System**  
+**Python · FastAPI · PostgreSQL · Django · Alibaba Cloud**
 
-Production-grade environment mirroring enterprise deployments
+Enterprise digitalization system processing **2M+ historical records**.
 
-🔗 Live (CloudFront): https://d34e3l3zzf4dvm.cloudfront.net/
+- Led backend data integration & validation  
+- Designed large-scale PostgreSQL schemas  
+- Built FastAPI services supporting high-reliability workflows  
+- Deployed production system to Alibaba Cloud  
 
-🔗 GitHub: https://github.com/Yang-Yanqing/my-BuddyCart
+---
 
-🧳 HireHub — Applicant Tracking System (ATS)
+## 🧭 Current Focus  
+- Distributed backend systems  
+- Cloud-ready architecture  
+- AWS-based scalable deployments  
+- Open-source contributions (Node.js / FastAPI ecosystem)
 
-React · TypeScript · Node.js · Prisma · PostgreSQL · Supabase · Fly.io
+---
 
-A lightweight ATS platform designed for HR teams with multi-role access and workflow automation.
+## 📫 Contact  
+📧 Email: **yang.yanqing@tutamail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/yanqing-yang-berlin  
+💻 GitHub: https://github.com/Yang-Yanqing  
 
-Designed scalable Prisma schema (Jobs, Candidates, Applications, StatusHistory)
+---
 
-Implemented full CRUD API + status transition engine
-
-Frontend deployed on Fly.io
-
-Backend deployed on Render
-
-🔗 Frontend Repo: https://github.com/Yang-Yanqing/myHireHub-frontEnd
-
-🔗 Backend Repo: https://github.com/Yang-Yanqing/myHireHub-backEnd
-
-🗂 Trademark Information Management System
-
-Python · FastAPI · Node.js · PostgreSQL · Alibaba Cloud · Django
-
-Enterprise digitalization project processing 2M+ historical trademark records.
-
-Led backend integration using FastAPI + PostgreSQL
-
-Designed and optimized large-scale data schemas
-
-Built API services, validated data consistency, deployed to Alibaba Cloud
-
-Ensured long-term stability for a national-level organization
-
-🧭 Current Focus
-
-Distributed backend systems & clean architecture
-
-AWS-based scalable deployments
-
-TypeScript/Python hybrid backend engineering
-
-Open-source contributions in Node.js / FastAPI ecosystems
-
-📫 Contact
-
-📧 Email: yang.yanqing@tutamail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/yanqing-yang-berlin
-
-💻 GitHub: https://github.com/Yang-Yanqing
-
-⭐ I design and build scalable systems — with clean code, cloud-ready architecture, and engineering discipline.
+⭐ **I design and build scalable systems — with clean code, cloud-ready architecture, and engineering discipline.**
