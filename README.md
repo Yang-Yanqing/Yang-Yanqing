@@ -1,82 +1,91 @@
 # 👋 Hi, I'm Yanqing Yang  
-### Backend-Focused Full-Stack Engineer | Systems Architecture & Cloud Deployment
+### AI Systems & Backend Engineer | Platform Architecture · Cloud Infrastructure
 
-I build scalable backend systems and production-ready cloud infrastructure using **Node.js, FastAPI, PostgreSQL, Prisma, Docker, and AWS**.
+I design and build **AI-enabled backend systems and platform-level architectures** that turn complex technologies into reliable, production-ready products.
+
+My work focuses on **system orchestration, long-running workflows, and cloud-native deployments** across distributed environments.
 
 📍 Berlin, Germany  
-💼 5+ years in backend engineering, distributed systems integration & large-scale data processing  
+💼 5+ years building backend systems, platform services & large-scale data pipelines  
 
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Core Expertise
 
-### 🔧 Backend & APIs  
+### 🔧 Backend & System Engineering  
 Node.js · TypeScript · Express · FastAPI · Python  
-PostgreSQL · Prisma ORM · MongoDB  
-Authentication · WebSocket · Clean Architecture
+PostgreSQL · Prisma · MongoDB  
+System Design · Clean Architecture · Async Workflows · RBAC
 
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud & Platform  
 AWS (EC2 / S3 / CloudFront) · Docker · Nginx  
-GitHub Actions (CI/CD) · Render · Fly.io · Supabase
+GitHub Actions (CI/CD) · Render · Fly.io · Supabase  
+Production Deployment · Observability · Cost-aware Design
 
-### 🎨 Frontend  
+### 🎨 Frontend (Supporting Role)  
 React · TypeScript · Vite  
 
 ---
 
-# 🌟 Selected Projects
+# 🌟 Selected Systems & Platforms
 
-## 🛒 **BuddyCart — E-commerce System**  
-**React · Node.js · MongoDB · PayPal · Docker · AWS EC2/S3/CloudFront · Nginx · CI/CD**
+## 🧬 **KaryoLink — AI-enabled Medical Imaging Platform**  
+**React · FastAPI · PostgreSQL · AWS S3 · Async AI Pipelines**
 
-A production-ready full-stack e-commerce platform featuring role-based access, real-time messaging, and online payments.
+An end-to-end **AI system platform** for medical imaging analysis, designed for professional and regulated environments.
 
-- Independent architecture & system design  
-- JWT auth, PayPal checkout, WebSocket chat  
-- CI/CD (Vitest + GitHub Actions)  
-- Backend dockerized & deployed on AWS EC2 (Nginx reverse proxy)  
-- Frontend hosted on S3 + CloudFront (global CDN)
+- Designed AI workflow orchestration (upload → preprocessing → analysis → review → report)  
+- Integrated human-in-the-loop review & role-based access  
+- Asynchronous task processing for long-running AI jobs  
+- Structured output generation (PDF / JSON) for downstream systems  
 
-🔗 **Live:** https://d34e3l3zzf4dvm.cloudfront.net/  
-🔗 **GitHub:** https://github.com/Yang-Yanqing/my-BuddyCart  
+> *Focus: AI system integration, reliability, and domain-specific productization*
 
+---
+
+## 🛒 **BuddyCart — Production E-commerce Platform**  
+**React · Node.js · MongoDB · PayPal · Docker · AWS EC2/S3/CloudFront · Nginx**
+
+A full-stack system built and deployed end-to-end, emphasizing **real-world reliability and cloud deployment**.
+
+- Independent system architecture & API design  
+- JWT authentication, payment integration, real-time messaging  
+- CI/CD with GitHub Actions  
+- Dockerized backend, AWS EC2 + Nginx reverse proxy  
+
+🔗 Live: https://d34e3l3zzf4dvm.cloudfront.net/  
+🔗 GitHub: https://github.com/Yang-Yanqing/my-BuddyCart  
 
 ---
 
 ## 🧳 **HireHub — Applicant Tracking System (ATS)**  
-**React · TypeScript · Node.js · Prisma · PostgreSQL · Supabase · Fly.io**
+**React · TypeScript · Node.js · Prisma · PostgreSQL · Supabase**
 
-A lightweight ATS with multi-role access (Lead / HR / Candidate) and workflow automation.
+A multi-role recruitment platform focusing on **workflow automation and data consistency**.
 
-- Designed scalable Prisma schema (Jobs, Candidates, Applications, StatusHistory)  
-- Full CRUD API + status transition engine  
-- Frontend deployed to Fly.io  
-- Backend deployed to Render  
-
-🔗 **Frontend Repo:** https://github.com/Yang-Yanqing/myHireHub-frontEnd  
-🔗 **Backend Repo:** https://github.com/Yang-Yanqing/myHireHub-backEnd  
-
+- Designed scalable domain models & status transition engine  
+- Backend deployed on Render, frontend on Fly.io  
+- Emphasis on long-running processes and auditability  
 
 ---
 
-## 🗂 **Trademark Information Management System**  
-**Python · FastAPI · PostgreSQL · Django · Alibaba Cloud**
+## 🗂 **Enterprise Trademark Management System**  
+**Python · FastAPI · PostgreSQL · Alibaba Cloud**
 
-Enterprise digitalization system processing **2M+ historical records**.
+Large-scale enterprise system processing **2M+ historical records** across decades.
 
-- Led backend data integration & validation  
-- Designed large-scale PostgreSQL schemas  
-- Built FastAPI services supporting high-reliability workflows  
-- Deployed production system to Alibaba Cloud  
+- Backend data integration & validation  
+- Large PostgreSQL schema design  
+- Production deployment in regulated, high-reliability environment  
 
 ---
 
-## 🧭 Current Focus  
-- Distributed backend systems  
-- Cloud-ready architecture  
-- AWS-based scalable deployments  
-- Open-source contributions (Node.js / FastAPI ecosystem)
+## 🧭 Current Focus
+- AI system & workflow orchestration  
+- Platform-level backend architecture  
+- Cloud-native, long-running systems  
+- Turning AI capabilities into usable, reliable products  
 
 ---
 
@@ -87,4 +96,4 @@ Enterprise digitalization system processing **2M+ historical records**.
 
 ---
 
-⭐ **I design and build scalable systems — with clean code, cloud-ready architecture, and engineering discipline.**
+⭐ **I build systems that last — reliable, scalable, and designed for real-world complexity.**
